@@ -10,9 +10,9 @@
 - html
 - SCSS / CSS Modules
 - Axios
-- адаптивная верстка (Flexbox)
+- Адаптивная верстка (Flexbox)
 - Библиотека npm с готовыми классами macro-css
-- Библиотека <a href="https://github.com/JedWatson/classnames">'classnames'</a>.Эта библиотека для простого условного объединения имен классов.
+- Библиотека <a href="https://github.com/JedWatson/classnames">classnames</a>. Эта библиотека для простого условного объединения имен классов.
 
 ## GitHub Pages
 <a href="https://orkhanrakhmetov.github.io/react-pizza/">Страница проекта</a>
