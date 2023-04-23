@@ -32,9 +32,13 @@ body {
   }
 
   &__top {
+
     display: flex;
+    row-gap: 30px;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
+
   }
 }
 
